@@ -2,6 +2,8 @@ import {Routes, Route} from 'react-router-dom';
 import Main from "./Pages/Main.jsx";
 import Cart from "./Pages/Cart.jsx";
 import Navbar from "./Components/Navbar.jsx";
+
+
 const App = () => {
   return(
       <div>

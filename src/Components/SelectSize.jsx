@@ -4,7 +4,7 @@ const SelectSize = ({selectedsize,setselectedsize,setsizeprice}) => {
         {ss: 'M' ,price: 200},
         {ss: 'L' ,price: 250},
         {ss: 'XL' ,price: 300},
-        {ss:'XLL'  ,price: 300},
+        {ss:'XXL'  ,price: 350},
 
     ];
     return(

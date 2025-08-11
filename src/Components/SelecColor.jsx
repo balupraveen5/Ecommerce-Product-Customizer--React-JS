@@ -1,8 +1,8 @@
 const SelecColor = ({ selectedcolor, setselectedcolor, setcolorprice }) => {
     const colors = [
-        { name: 'white', price: 300 },
-        { name: 'red', price: 200 },
-        { name: 'green', price: 400 },
+        { name: 'white', price: 400 },
+        { name: 'red', price: 300 },
+        { name: 'green', price: 200 },
         { name: 'blue', price: 200 },
     ];
 
